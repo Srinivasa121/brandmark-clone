@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function() {
     const apiKey = 'b20ef05e83199aa8a0e099f735a0167f'; // Replace with your actual API key from OpenWeatherMap
     const city = 'Bengaluru';
